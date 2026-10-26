@@ -1,0 +1,8 @@
+## Interface: 120105
+## Title: Who Needs Gear?
+## Notes: Export your equipped gear for whoneedsgear.info. Type /wng export
+## Author: Who Needs Gear?
+## Version: 1.1.1
+## SavedVariables: WhoNeedsGearDB
+
+WhoNeedsGear.lua
